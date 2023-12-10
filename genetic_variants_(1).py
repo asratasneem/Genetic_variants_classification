@@ -38,7 +38,7 @@ print(df.info())
 # Summary statistics for numerical columns
 print(df.describe())
 
-"""<h1> EDA Analysis</h1>"""
+""" EDA Analysis"""
 
 # Correlation heatmap for numerical columns
 correlation_matrix = df.corr()
@@ -107,8 +107,7 @@ print(numeric_df.head())
 
 """# Unsupervised learning algorithms
 
-## K-Means Clustering with Numeric Columns
-"""
+## K-Means Clustering with Numeric Columns"""
 
 # Selecting the number of clusters (k)
 k = 5
