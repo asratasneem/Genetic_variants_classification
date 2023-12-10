@@ -1,4 +1,5 @@
-#Genetic Variant Classification
+#Genetic Variant Classification#
+
 Project Theme:
 This project includes a Python script made for tasks involving machine learning and data analysis on gene variants. 
 The script covers a number of steps in the data science pipeline, such as data preprocessing, exploratory data analysis (EDA), data reading, and the use of supervised and unsupervised learning methods.
