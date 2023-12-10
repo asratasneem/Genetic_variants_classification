@@ -20,6 +20,7 @@ plt.style.use('seaborn')
 import warnings
 warnings.filterwarnings("ignore")
 
+#Mounting the google drive for the data to be read
 from google.colab import drive
 drive.mount('/content/drive',force_remount = True)
 
