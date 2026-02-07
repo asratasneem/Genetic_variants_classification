@@ -1,4 +1,4 @@
-#Genetic Variant Classification#
+## Genetic Variant Classification ##
 
 Project Theme:
 This project includes a Python script made for tasks involving machine learning and data analysis on gene variants. 
